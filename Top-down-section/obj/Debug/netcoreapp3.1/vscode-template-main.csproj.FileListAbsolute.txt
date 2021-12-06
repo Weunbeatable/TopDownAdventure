@@ -1,0 +1,13 @@
+E:\Raylib projects\vscode-template-main\bin\Debug\netcoreapp3.1\vscode-template-main.exe
+E:\Raylib projects\vscode-template-main\bin\Debug\netcoreapp3.1\vscode-template-main.deps.json
+E:\Raylib projects\vscode-template-main\bin\Debug\netcoreapp3.1\vscode-template-main.runtimeconfig.json
+E:\Raylib projects\vscode-template-main\bin\Debug\netcoreapp3.1\vscode-template-main.runtimeconfig.dev.json
+E:\Raylib projects\vscode-template-main\bin\Debug\netcoreapp3.1\vscode-template-main.dll
+E:\Raylib projects\vscode-template-main\bin\Debug\netcoreapp3.1\vscode-template-main.pdb
+E:\Raylib projects\vscode-template-main\obj\Debug\netcoreapp3.1\vscode-template-main.csprojAssemblyReference.cache
+E:\Raylib projects\vscode-template-main\obj\Debug\netcoreapp3.1\vscode-template-main.AssemblyInfoInputs.cache
+E:\Raylib projects\vscode-template-main\obj\Debug\netcoreapp3.1\vscode-template-main.AssemblyInfo.cs
+E:\Raylib projects\vscode-template-main\obj\Debug\netcoreapp3.1\vscode-template-main.csproj.CoreCompileInputs.cache
+E:\Raylib projects\vscode-template-main\obj\Debug\netcoreapp3.1\vscode-template-main.dll
+E:\Raylib projects\vscode-template-main\obj\Debug\netcoreapp3.1\vscode-template-main.pdb
+E:\Raylib projects\vscode-template-main\obj\Debug\netcoreapp3.1\vscode-template-main.genruntimeconfig.cache
